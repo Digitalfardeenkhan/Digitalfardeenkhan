@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Digitalfardeenkhan
-- 👀 I’m interested in AI, Web 3.0, and Metaverse
-- 🌱 I’m currently learning Typescript
+- 👀 I’m learning in AI, Web 3.0, and Metaverse
+- 🌱 I’m currently working on Typescript
 - 💞️ I’m looking to collaborate with all AI, Web 3.0, and Metaverse developers.
 
 <!---
